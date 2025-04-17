@@ -117,3 +117,5 @@ fructs.insert("peach", 60)
 print("Після додавання grape, melon, peach:", fructs)
 print("Поточний розмір таблиці:", fructs.size)
 
+#
+
